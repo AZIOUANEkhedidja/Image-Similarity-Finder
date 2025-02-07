@@ -1,0 +1,146 @@
+[
+    {
+        "image_path": "static/images/texture/000058.png",
+        "similarity": 0.0
+    },
+    {
+        "image_path": "static/images/texture/000038.png",
+        "similarity": 5.911022441607347
+    },
+    {
+        "image_path": "static/images/texture/000050.png",
+        "similarity": 9.86447186352668
+    },
+    {
+        "image_path": "static/images/texture/000024.jpg",
+        "similarity": 20.22757467331385
+    },
+    {
+        "image_path": "static/images/texture/000037.png",
+        "similarity": 22.36870749684857
+    },
+    {
+        "image_path": "static/images/texture/000040.png",
+        "similarity": 33.18004455808891
+    },
+    {
+        "image_path": "static/images/texture/000028.jpg",
+        "similarity": 45.91966489329197
+    },
+    {
+        "image_path": "static/images/texture/000057.png",
+        "similarity": 77.05193762484129
+    },
+    {
+        "image_path": "static/images/texture/000003.jpg",
+        "similarity": 96.2066905911067
+    },
+    {
+        "image_path": "static/images/texture/000022.jpg",
+        "similarity": 97.12095070764623
+    },
+    {
+        "image_path": "static/images/texture/000001.jpg",
+        "similarity": 164.12137637990318
+    },
+    {
+        "image_path": "static/images/texture/000019.jpg",
+        "similarity": 164.35328102490266
+    },
+    {
+        "image_path": "static/images/texture/000015.jpg",
+        "similarity": 171.96185603177852
+    },
+    {
+        "image_path": "static/images/texture/000007.jpg",
+        "similarity": 172.8227692916562
+    },
+    {
+        "image_path": "static/images/texture/000029.jpg",
+        "similarity": 185.95239012648963
+    },
+    {
+        "image_path": "static/images/texture/000056.png",
+        "similarity": 187.552072960932
+    },
+    {
+        "image_path": "static/images/texture/000014.jpg",
+        "similarity": 198.14042213673352
+    },
+    {
+        "image_path": "static/images/texture/000026.jpg",
+        "similarity": 212.5125404241552
+    },
+    {
+        "image_path": "static/images/texture/000002.jpg",
+        "similarity": 213.09147316384392
+    },
+    {
+        "image_path": "static/images/texture/000027.jpg",
+        "similarity": 222.2096312302672
+    },
+    {
+        "image_path": "static/images/texture/000005.jpeg",
+        "similarity": 245.34961717595675
+    },
+    {
+        "image_path": "static/images/texture/000034.jpg",
+        "similarity": 278.01827025944027
+    },
+    {
+        "image_path": "static/images/texture/000004.jpg",
+        "similarity": 341.1696429416868
+    },
+    {
+        "image_path": "static/images/texture/000032.jpeg",
+        "similarity": 423.2794353053088
+    },
+    {
+        "image_path": "static/images/texture/000009.jpg",
+        "similarity": 446.0652644938996
+    },
+    {
+        "image_path": "static/images/texture/000021.jpg",
+        "similarity": 446.7499598050748
+    },
+    {
+        "image_path": "static/images/texture/000059.png",
+        "similarity": 533.3344760221012
+    },
+    {
+        "image_path": "static/images/texture/000039.png",
+        "similarity": 545.6474506206268
+    },
+    {
+        "image_path": "static/images/texture/000030.jpg",
+        "similarity": 980.3858566012112
+    },
+    {
+        "image_path": "static/images/texture/000054.png",
+        "similarity": 1167.9943240822356
+    },
+    {
+        "image_path": "static/images/texture/000055.png",
+        "similarity": 1167.9943240822356
+    },
+    {
+        "image_path": "static/images/texture/000010.jpg",
+        "similarity": 1372.7343461974565
+    },
+    {
+        "image_path": "static/images/texture/000053.png",
+        "similarity": 1927.861733074171
+    },
+    {
+        "image_path": "static/images/texture/000051.png",
+        "similarity": 2091.0648312931717
+    },
+    {
+        "image_path": "static/images/texture/000052.png",
+        "similarity": 2418.323900111854
+    },
+    {
+        "image_path": "static/images/texture/000031.jpg",
+        "similarity": 2716.358889761943
+    }
+]
